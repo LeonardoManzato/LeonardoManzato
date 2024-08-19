@@ -1,6 +1,8 @@
 ## Olá, eu sou o Leonardo Manzato, analista de dados e estudante de ciência de dados.
 
-- 🔭 Atualmente trabalhando com Data Analytics (Qlik Sense e Power BI)
+- 🔭 Atualmente trabalhando com Data Analytics
+    - Microsoft Certified: Power BI Data Analyst Associate
+    - Qlik Sense Business Analyst Certified 2024
 - 🌱 Estudante do MBA - Data Science e Analytics USP/ESALQ
 
 ##
