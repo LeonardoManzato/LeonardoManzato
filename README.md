@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando com Data Analytics
     - Microsoft Certified: Power BI Data Analyst Associate
-    - Qlik Sense Business Analyst Certified 2024
+    - Qlik Sense Business Analyst 2024
 - 🌱 Estudante do MBA - Data Science e Analytics USP/ESALQ
 
 ##
