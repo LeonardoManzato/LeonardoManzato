@@ -1,9 +1,9 @@
-## Olá, eu sou o Leonardo Manzato, analista de dados e estudante de ciência de dados.
+## Hello! I'm Leonardo Manzato, Business Analyst at AB-InBev and Data Science and Analytcs student.
 
-- 🔭 Atualmente trabalhando com Data Analytics
+- 🔭 Working as Business Analyst
     - Microsoft Certified: Power BI Data Analyst Associate
     - Qlik Sense Business Analyst 2024
-- 🌱 Estudante do MBA - Data Science e Analytics USP/ESALQ
+- 🌱 MBA - Data Science e Analytics USP/ESALQ
 
 ##
 
