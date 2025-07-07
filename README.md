@@ -1,8 +1,11 @@
-## Hello! I'm Leonardo Manzato, Business Analyst at AB-InBev and Data Science and Analytcs student.
+## Hello! I'm Leonardo Manzato, Data Integration Analyst and Data Science and Analytcs student.
 
-- 🔭 Working as Business Analyst
+- 🔭 Working as Data Integration Analyst
     - Microsoft Certified: Power BI Data Analyst Associate
     - Qlik Sense Business Analyst 2024
+    - Snowflake
+    - Azure Databricks
+    - Postman
 - 🌱 MBA - Data Science e Analytics USP/ESALQ
 
 ##
